@@ -8,7 +8,7 @@
   </a>
 </div>
 
-### 👨🏼‍💻 About Me:
+## 👨🏼‍💻 About Me:
 I am a Full Stack Developer specializing in crafting user experiences.
 - 🔭 I’m currently developing and managing software for [Association for Baha'i Studies](https://github.com/bahaistudies)
 - 🌱 I’m currently learning: 
@@ -30,7 +30,7 @@ I am a Full Stack Developer specializing in crafting user experiences.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 🔧 Tools I Like To Use:
+## 🔧 Tools I Like To Use:
 - [SvelteKit](https://kit.svelte.dev)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Jest](https://jestjs.io)
