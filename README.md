@@ -11,7 +11,7 @@
 ## 👨🏼‍💻 About Me:
 I am a Full Stack Developer specializing in crafting user experiences.
 - 🔭 I’m currently developing and managing software for [Association for Baha'i Studies](https://github.com/bahaistudies)
-- 🌱 I’m currently learning: 
+- 🌱 I’m currently learning: Animating user interactions
 - 😍 My tech passion right now is: [Svelte](https://kit.svelte.dev)! The team is doing a lot of things right
 - 🤔 What I want to learn next: Advanced hooks with React
 - 💬 Ask me about: web accessibility approaches!
